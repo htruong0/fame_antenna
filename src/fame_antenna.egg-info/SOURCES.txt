@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/fame_antenna.egg-info/PKG-INFO
+src/fame_antenna.egg-info/SOURCES.txt
+src/fame_antenna.egg-info/dependency_links.txt
+src/fame_antenna.egg-info/requires.txt
+src/fame_antenna.egg-info/top_level.txt
